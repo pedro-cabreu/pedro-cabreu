@@ -10,7 +10,6 @@
 
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/JS-F7DF1E?logo=Javascript&logoColor=black&style=for-the-badge" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node-1C1B22?logo=Node.js&logoColor=6BC46D&style=for-the-badge" />
-<img align="left" alt="SASS" src="https://img.shields.io/badge/SASS-white?logo=sass&logoColor=CF6297&style=for-the-badge" />
 <img align="left" alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img align="left" alt="PHP" src="https://img.shields.io/badge/php-687BB3?logo=php&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel-1c1b22?logo=laravel&logoColor=F44C30&style=for-the-badge" />
