@@ -2,8 +2,8 @@
 <h3 align="center">A fullstack dev and software engineering student</h3>
 
 - 🔭 I’m currently working with Flutter, Laravel and React.
-- 🌱 I’m currently learning Next.js.
-- 🐧 Distrohopper Linux/GNU enthusiast, currently usign Arch (btw).
+- 🌱 I’m currently learning Tensorflow and OpenCV.
+- 🐧 Distrohopper Linux/GNU enthusiast, currently usign Void Linux.
 - 📫 How to reach me: abreu.dev@protonmail.com
 
 #### Languages, Tools and Frameworks
