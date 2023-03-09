@@ -2,9 +2,9 @@
 <h3 align="center">A fullstack dev and software engineering student</h3>
 
 - 🔭 I’m currently working with Flutter, Laravel and React.
-- 🌱 I’m currently learning Tensorflow and OpenCV.
-- 🐧 Distrohopper Linux/GNU enthusiast, currently usign Void Linux.
-- 📫 How to reach me: abreu.dev@protonmail.com
+- 🌱 I’m currently learning cybersecurity.
+- 🐧 Distrohopper Linux/GNU enthusiast, currently using Arch Linux + i3 and Debian + gnome.
+- 📫 How to reach me: abreu@duck.com
 
 #### Languages, Tools and Frameworks
 
