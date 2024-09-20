@@ -1,8 +1,7 @@
 <h2 align="center">Hi 👋, I'm Pedro</h2>
 <h3 align="center">A fullstack dev and software engineering student</h3>
 
-- 🔭 I’m currently working with PHP and React.js.
-- 🐧 Distrohopper Linux/GNU enthusiast, currently using Arch Linux + i3 and Debian + gnome.
+- 🔭 I’m currently working with Angular and Python.
 - 📫 How to reach me: abreu@duck.com
 
 #### Languages, Tools and Frameworks
